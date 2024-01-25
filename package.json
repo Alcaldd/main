@@ -1,0 +1,28 @@
+{
+  "name": "alcalde-foro",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@splidejs/vue-splide": "github:splidejs/vue-splide",
+    "@tinymce/tinymce-vue": "^4.0.7",
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2",
+    "vue": "^3.4.15",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.2.4",
+    "vue-socket.io": "^3.0.10",
+    "vue-sweetalert2": "^5.0.5",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.6"
+  }
+}
